@@ -1,0 +1,25 @@
+E-COMMERCE SALES ANALYSIS REPORT
+
+Total Revenue: 459300
+Best Selling Products:
+Product_Name
+Cap      5
+Mouse    5
+Top Revenue Category: Electronics
+Top Customer ID: C101
+
+Top 5 Selling Products:
+Product_Name
+Cap           5
+Mouse         5
+Power Bank    4
+Bag           4
+Sandals       4
+
+Top 5 Customers:
+Customer_ID
+C101    90000
+C112    70000
+C115    56000
+C127    50000
+C126    30000

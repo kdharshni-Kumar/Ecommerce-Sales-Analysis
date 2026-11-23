@@ -1,0 +1,44 @@
+Product_ID,Product_Name,Category,Price
+101,Laptop,Electronics,45000
+102,Mobile,Electronics,15000
+103,Shoes,Fashion,2000
+104,Watch,Accessories,3000
+105,Bag,Fashion,1000
+106,Headphones,Electronics,2500
+107,T-shirt,Fashion,800
+108,Keyboard,Electronics,1500
+109,Handbag,Accessories,2200
+110,Jeans,Fashion,1800
+111,Tablet,Electronics,20000
+112,Smart TV,Electronics,35000
+113,Mouse,Electronics,700
+114,Printer,Electronics,8500
+115,Camera,Electronics,28000
+116,Saree,Fashion,2500
+117,Dress,Fashion,1800
+118,Jacket,Fashion,3500
+119,Sandals,Fashion,900
+120,Backpack,Fashion,1200
+121,Sunglasses,Accessories,1500
+122,Wallet,Accessories,800
+123,Belt,Accessories,600
+124,Earrings,Accessories,1200
+125,Necklace,Accessories,2500
+126,Refrigerator,Electronics,30000
+127,Washing Machine,Electronics,25000
+128,Speaker,Electronics,4000
+129,Power Bank,Electronics,1200
+130,Smart Watch,Electronics,5000
+131,Shorts,Fashion,700
+132,Skirt,Fashion,1100
+133,Formal Shirt,Fashion,1600
+134,Formal Shoes,Fashion,2800
+135,Cap,Accessories,500
+136,Bracelet,Accessories,900
+137,Perfume,Accessories,1800
+138,Water Bottle,Accessories,400
+139,Monitor,Electronics,12000
+140,USB Cable,Electronics,300
+
+
+

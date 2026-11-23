@@ -1,0 +1,41 @@
+Order_ID,Customer_ID,Product_ID,Quantity,Order_Date,Product_Name,Category,Price,Revenue,Month
+O1001,C101,101,2,2026-01-05,Laptop,Electronics,45000,90000,January
+O1002,C102,102,1,2026-01-12,Mobile,Electronics,15000,15000,January
+O1003,C103,103,3,2026-01-20,Shoes,Fashion,2000,6000,January
+O1004,C104,104,2,2026-02-05,Watch,Accessories,3000,6000,February
+O1005,C105,105,4,2026-02-15,Bag,Fashion,1000,4000,February
+O1006,C106,106,1,2026-02-25,Headphones,Electronics,2500,2500,February
+O1007,C107,107,3,2026-03-05,T-shirt,Fashion,800,2400,March
+O1008,C108,108,2,2026-03-15,Keyboard,Electronics,1500,3000,March
+O1009,C109,109,1,2026-03-25,Handbag,Accessories,2200,2200,March
+O1010,C110,110,2,2026-04-05,Jeans,Fashion,1800,3600,April
+O1011,C111,111,1,2026-04-15,Tablet,Electronics,20000,20000,April
+O1012,C112,112,2,2026-04-25,Smart TV,Electronics,35000,70000,April
+O1013,C113,113,5,2026-05-05,Mouse,Electronics,700,3500,May
+O1014,C114,114,1,2026-05-15,Printer,Electronics,8500,8500,May
+O1015,C115,115,2,2026-05-25,Camera,Electronics,28000,56000,May
+O1016,C116,116,3,2026-06-05,Saree,Fashion,2500,7500,June
+O1017,C117,117,2,2026-06-15,Dress,Fashion,1800,3600,June
+O1018,C118,118,1,2026-06-25,Jacket,Fashion,3500,3500,June
+O1019,C119,119,4,2026-07-05,Sandals,Fashion,900,3600,July
+O1020,C120,120,2,2026-07-15,Backpack,Fashion,1200,2400,July
+O1021,C121,121,1,2026-07-25,Sunglasses,Accessories,1500,1500,July
+O1022,C122,122,3,2026-08-05,Wallet,Accessories,800,2400,August
+O1023,C123,123,2,2026-08-15,Belt,Accessories,600,1200,August
+O1024,C124,124,1,2026-08-25,Earrings,Accessories,1200,1200,August
+O1025,C125,125,2,2026-09-05,Necklace,Accessories,2500,5000,September
+O1026,C126,126,1,2026-09-15,Refrigerator,Electronics,30000,30000,September
+O1027,C127,127,2,2026-09-25,Washing Machine,Electronics,25000,50000,September
+O1028,C128,128,3,2026-10-05,Speaker,Electronics,4000,12000,October
+O1029,C129,129,4,2026-10-15,Power Bank,Electronics,1200,4800,October
+O1030,C130,130,1,2026-10-25,Smart Watch,Electronics,5000,5000,October
+O1031,C131,131,3,2026-11-01,Shorts,Fashion,700,2100,November
+O1032,C132,132,2,2026-11-05,Skirt,Fashion,1100,2200,November
+O1033,C133,133,1,2026-11-10,Formal Shirt,Fashion,1600,1600,November
+O1034,C134,134,2,2026-11-12,Formal Shoes,Fashion,2800,5600,November
+O1035,C135,135,5,2026-11-15,Cap,Accessories,500,2500,November
+O1036,C136,136,1,2026-11-18,Bracelet,Accessories,900,900,November
+O1037,C137,137,2,2026-11-19,Perfume,Accessories,1800,3600,November
+O1038,C138,138,3,2026-11-20,Water Bottle,Accessories,400,1200,November
+O1039,C139,139,1,2026-11-20,Monitor,Electronics,12000,12000,November
+O1040,C140,140,4,2026-11-21,USB Cable,Electronics,300,1200,November
